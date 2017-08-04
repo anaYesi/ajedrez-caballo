@@ -1,0 +1,15 @@
+body{
+	background-image:url( "imagen1.jpg");
+	background-size: 100%;
+
+}
+.negro{
+  background-color: black;
+  color:white;
+}
+
+td{
+  width: 40px;
+  height: 40px;
+}
+
